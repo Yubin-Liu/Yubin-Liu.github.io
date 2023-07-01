@@ -6,7 +6,7 @@ subtitle: <a href='https://transport-systems.imperial.ac.uk'>Imperial College Lo
 
 profile:
   align: right
-  image: photo.jpg
+  image: photo.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>

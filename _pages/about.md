@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am doctoral researcher at <a href='https://transport-systems.imperial.ac.uk'>Transport Systems and Logistics Lab</a>, Imperial College London, UK
+subtitle: Doctoral researcher at <a href='https://transport-systems.imperial.ac.uk'>Transport Systems and Logistics Lab</a>, Imperial College London, UK
 
 profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>422, Skempton Building</p>
+    <p>South Kensington Campus, Imperial College London</p>
+    <p>Greater London, UK, SW7 2AZ</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

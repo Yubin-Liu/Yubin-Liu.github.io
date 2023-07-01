@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://transport-systems.imperial.ac.uk'>Imperial College London</a>. South Kensington Campus
+subtitle: PhD Researcher at <a href='https://transport-systems.imperial.ac.uk'>Imperial College London</a>. South Kensington Campus
 
 profile:
   align: right

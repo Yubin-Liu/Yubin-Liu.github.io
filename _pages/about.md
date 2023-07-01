@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>422, Skempton Building</p>
-    <p>South Kensington Campus, Imperial College London</p>
-    <p>Greater London, UK, SW7 2AZ</p>
+    <p>South Kensington Campus</p>
+    <p>Imperial College London</p>
+    <p>London, UK, SW7 2AZ</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

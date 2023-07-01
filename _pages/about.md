@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Researcher at <a href='https://transport-systems.imperial.ac.uk'>Imperial College London</a>. South Kensington Campus
+subtitle: I am doctoral researcher at <a href='https://transport-systems.imperial.ac.uk'>Transport Systems and Logistics Lab</a>, Imperial College London, UK
 
 profile:
   align: right

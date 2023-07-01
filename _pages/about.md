@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='tslab.org.uk'>Imperial College London</a>. South Kensington Campus
 
 profile:
   align: right

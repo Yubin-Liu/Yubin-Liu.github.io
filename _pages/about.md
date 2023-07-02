@@ -20,8 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I conduct my research under the supervision of Dr. Panagiotis Angeloudis. My research focuses on the application of autonomous technologies in urban logistics, with interests in the intersection of transportation science and supply chain management, particularly in the performance optimisation and evaluation of logistics operations.
-I received a Bachelor’s Degree in Logistics Engineering and was awarded a China National Scholarship and recognised as a Merit student of Heilongjiang Province in 2017. I earned an MSc in Logistics and Supply Chain Management from Cranfield University, graduating with Distinction Honors. Yubin’s previous research includes physical network design for cold chain logistics, path planning for logistics robots, and route optimization for delivery fleets.
-I received the Best Urban Freight Paper Award at the 2023 Transportation Research Board Annual Meeting for his work on the efficient use of autonomous vehicle fleets for urban freight distribution.
+
+\\ I received a Bachelor’s Degree in Logistics Engineering and was awarded a China National Scholarship and recognised as a Merit student of Heilongjiang Province in 2017. I earned an MSc in Logistics and Supply Chain Management from Cranfield University, graduating with Distinction Honors. Yubin’s previous research includes physical network design for cold chain logistics, path planning for logistics robots, and route optimization for delivery fleets.
+
+\\ I received the Best Urban Freight Paper Award at the 2023 Transportation Research Board Annual Meeting for his work on the efficient use of autonomous vehicle fleets for urban freight distribution.
 
 [//]: # (This is a random text. Wait for update soon.  Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the Best Research Paper Award of the Urban Freight Commitee of Transportation Research Board 
+I received the Best Research Paper Award of the Urban Freight Commitee of Transportation Research Board. 

@@ -19,7 +19,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I conduct my research under the supervision of [Dr. Panagiotis Angeloudis]&#40;http://www.imperial.ac.uk/people/p.angeloudis/&#41; and [Dr. Jose Escribano-Macias]&#40;http://www.imperial.ac.uk/people/j.escribano/&#41. My research focuses on the application of autonomous delivery fleet in urban logistics, with interests in the intersection of transportation science and supply chain management, particularly in the performance optimisation and evaluation of logistics operations.
+I conduct my research under the supervision of <a href='https://www.imperial.ac.uk/people/p.angeloudis'>Dr. Panagiotis Angeloudis</a> and <a href='https://www.imperial.ac.uk/people/j.escribano'>Dr. Jose Escribano-Macias</a>. My research focuses on the application of autonomous delivery fleet in urban logistics, with interests in the intersection of transportation science and supply chain management, particularly in the performance optimisation and evaluation of logistics operations.
 
 I received a Bachelor’s Degree in Logistics Engineering and was awarded a China National Scholarship and recognised as a Merit student of Heilongjiang Province in 2017. I earned an MSc in Logistics and Supply Chain Management from Cranfield University, graduating with Distinction Honors. 
 
